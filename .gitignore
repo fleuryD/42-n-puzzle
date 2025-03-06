@@ -1,0 +1,4 @@
+*.o
+npuzzle-gen.py
+npuzzle
+#.gitignore
