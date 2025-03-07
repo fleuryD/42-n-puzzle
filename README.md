@@ -16,8 +16,6 @@ Grade: 125% ✅
 
 The N-Puzzle is a sliding puzzle consisting of a square board divided into N \* N smaller sections, with one empty slot. The goal of the game is to rearrange the tiles into a specific configuration by sliding them into the empty slot.
 
-![Screenshot](./assets/screenshot-01.png)
-
 ## Features
 
 - The program supports solving N-Puzzle for different sizes (e.g., 3x3, 10x10).
@@ -39,6 +37,8 @@ The N-Puzzle is a sliding puzzle consisting of a square board divided into N \* 
   - **Greedy search** (based solely on heuristic values)
   - **Uniform Cost Search** (based purely on the path cost)
 - Plays an animation that shows the steps to solve the puzzle.
+
+![Screenshot](./assets/screenshot-01.png)
 
 ## Installation
 
